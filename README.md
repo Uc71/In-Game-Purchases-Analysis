@@ -1,4 +1,4 @@
-# pandas-challenge
+# In-Game Purchases Analysis
 Heroes of Pymoli
 
 I used pandas, numpy, and Jupyter Notebook to analyze data on in-game purchases from Heroes Of Pymoli.
