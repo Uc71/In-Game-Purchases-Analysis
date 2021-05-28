@@ -10,7 +10,7 @@ I also calculated the numbers of male, female, and other & non-disclosed gendere
 
 For male players, I calculated the total purchase count, the average purchase price, the total revenue gained by Heroes Of Pymoli, and the average value which each player paid to the company. I repeated these analyses for female and for other & non-disclosed gendered players.
 
-I binned the players by age in 1 bin of players 9 and under and 9 other bins of 4 years-width each. For each bin, I counted the number of players and the percentage of the total number of players which that bin represented.
+I binned the players by age in one bin of players 9 and under and nine other bins of 4 years-width each. For each bin, I counted the number of players and the percentage of the total number of players which that bin represented.
 
 For each age bin, I then found the total purchase count, the average value paid by each player, the total purchase value generated, and the average purchase price/person.
 
