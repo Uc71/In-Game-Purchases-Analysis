@@ -1,9 +1,9 @@
 # In-Game Purchases Analysis
 Heroes of Pymoli
 
-To run the code, simply press the open the .ipynb file in the 'Heroes of Pymoli" folder and press the right-pointing play button to the left of each cell.
+To run the code, simply open the .ipynb file in the 'Heroes of Pymoli" folder and press each right-pointing play button, located to the left of each cell.
 
-My aim in the project was to find which genders, age ranges, and specific items brought in the most revenue for the store in the game "Heroes of Pymoli".
+My aim in the project was to find which genders and age ranges of buyers, as well as which store items brought in the most money for the store in the game "Heroes of Pymoli".
 I used pandas, numpy, and Jupyter Notebook to do this.
 
 I counted the total number of players,
