@@ -25,14 +25,11 @@ For each age bin, I then found the total purchase count, the average value paid 
 I then sorted the entire set of buyers by the numbers of purchases made and identified the IDs, names, purchase counts, average amount paid, and total amount paid by each of the buyers with the top 5 greatest numbers of purchases.
 ![image](https://user-images.githubusercontent.com/73863977/120050682-c350bc00-bfeb-11eb-9135-d5e1e969fc7a.png)
 
-I then identified the IDs, names, purchase counts, prices, and total revenue generated from each of the top 6 most bought items.
+I then listed the IDs, names, purchase counts, prices, and total revenue generated from each of the top 6 most bought items.
 ![image](https://user-images.githubusercontent.com/73863977/120050695-d19ed800-bfeb-11eb-8047-43edabe7ad84.png)
 I also examined the items which generated the top 6 greatest amounts of revenue:
 ![image](https://user-images.githubusercontent.com/73863977/120050702-d95e7c80-bfeb-11eb-9f81-8ce147068425.png)
 
-I chose to analyze the top 6 most often bought items because of the confusion which results from comparing the df of the greatest total value items and the df of the most-bought items. 
-This confusion results from the fact that multiple items appear in boths dfs, but the "most-bought items" df has duplicated numbers in the "Purchases Count" column, and some items outside the top 5 have the same Purchase Counts as ones inside the top 5.
-It makes more sense to show the top 6.
 
 OBSERVABLE TRENDS:
 1. Male buyers outnumber female buyers by about 6 to 1. However, females tend to pay slightly more, on average, per player, than do males.
