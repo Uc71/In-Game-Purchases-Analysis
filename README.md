@@ -1,7 +1,10 @@
 # In-Game Purchases Analysis
 Heroes of Pymoli
 
-I used pandas, numpy, and Jupyter Notebook to analyze data on in-game purchases from Heroes Of Pymoli.
+To run the code, simply open the .ipynb file in the 'Heroes of Pymoli" folder and press each right-pointing play button, located to the left of each cell.
+
+My aim in the project was to find which genders and age ranges of buyers, as well as which store items brought in the most money for the store in the game "Heroes of Pymoli".
+I used pandas, numpy, and Jupyter Notebook to do this.
 
 I counted the total number of players,
 the total number of unique items, the average item price, the total number of purchases made, and the total revenue gathered.
