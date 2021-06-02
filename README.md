@@ -1,9 +1,10 @@
 # In-Game Purchases Analysis
 Heroes of Pymoli
 
-To run the code, simply open the .ipynb file in the 'Store_Analysis" folder and press each right-pointing play button, located to the left of each cell.
+To run the code, simply open the 'Store_Analysis" folder and open the .ipynb file within that folder. 
+Then, press each right-pointing play button, located to the left of each cell.
 
-My aim in the project was to find which genders and age ranges of buyers, as well as which store items, brought in the most money for the store in the game "Heroes of Pymoli".
+My aim in the project was to find which genders and ages of buyers, as well as which in-game store items, brought in the most money for the game "Heroes of Pymoli".
 I used pandas, numpy, and Jupyter Notebook to do this.
 
 I counted the total number of buyers,
@@ -32,6 +33,6 @@ I also examined the items which generated the top 6 greatest amounts of revenue:
 
 
 OBSERVABLE TRENDS:
-1. Male buyers outnumber female buyers by about 6 to 1. However, females tend to pay slightly more, on average, per player, than do males.
-2. There is a 5.6-fold drop in the number of buyers when crossing from the 22=<Age=<25 age bin to the 26=<Age=<29 age bin. This seems like the largest change in buyership shown in the age demographics.
+1. Male buyers outnumber female buyers by about 6 to 1. However, females tend to pay slightly more, on average, per player, than do males. I am not sure if this difference in average amount paid is merely due to the greater influence of outliers among the smaller female population than among the large male population.
+2. There is a 5.6-fold drop in the number of buyers when crossing from the 22=<Age=<25 age bin to the 26=<Age=<29 age bin. This seems like the largest change in buyership shown between consecutive brackets in the age demographics.
 3. "Singed Scalpel" was the only game to make the top 5 of most profitable items but not the top 6 most popular items.
